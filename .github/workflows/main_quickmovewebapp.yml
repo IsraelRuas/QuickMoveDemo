@@ -53,4 +53,4 @@ jobs:
           app-name: 'QuickMoveWebApp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_253731CC01C54BC8BF0D7F862EE2A9A0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_03E64B844B084B108408F12F3E53DF8C }}
