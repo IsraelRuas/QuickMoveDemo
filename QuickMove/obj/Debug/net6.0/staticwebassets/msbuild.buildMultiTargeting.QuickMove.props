@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\QuickMove.props" />
+</Project>
